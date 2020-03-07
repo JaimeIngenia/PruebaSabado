@@ -1,2 +1,11 @@
 Bienvenido
 hola
+git clone http.......... .
+_________________
+cambio
+hago el commit
+ORIGIN
+MASTER
+
+
+ADD COMMIIT Y PUSH
